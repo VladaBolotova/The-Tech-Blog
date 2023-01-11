@@ -1,0 +1,14 @@
+[
+    {
+      "title": "The benefits of starting an IT company blog",
+      "content": "Blogging is a great way to add a personal touch to your IT services website. A well-written blog post can help your audience gain a clear picture of your brand’s voice and values. Blogs are also a great place to provide new and existing customers with exciting updates about your company. "
+    },
+    {
+        "title": "Why Learn JavaScript?",
+        "content": "The most obvious reason for learning JavaScript is if you have hopes of becoming a web developer. Even if you haven't got your heart set on a tech career, being proficient in this language will enable you to build websites from scratch—a pretty useful skill to have in today's job market!"
+      },
+      {
+        "title": "Why Learn Python?",
+        "content": "Python is highly versatile. You can use it for both small and complex tasks, and it is used across many different industries — from its more common applications in data science and software engineering to environments like mobile app development, artificial intelligence, and machine learning."
+      }
+  ]
